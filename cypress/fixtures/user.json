@@ -1,0 +1,11 @@
+{
+    "firstname": "Eleven",
+    "lastname": "Team",
+    "email": "tim11@yopmail.com",
+    "password": "Sanbercode64-11",
+    "invalidEmail": "tim11.com",
+    "invalidPassword": "weak",
+    "mismatchPassword": "Password123!",
+    "longName": "testttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt",
+    "longPassword": "Password123!Password123!Password123!Password123!Password123!Password123!Password123!Password123!Password123!Password123!Password123!Password123!Password123!Password123!Password123!Password123!Password123!Password123!Password123!Password123!Password123!Password123!Password123!Password123!Password123!"
+}
