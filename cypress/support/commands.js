@@ -24,9 +24,6 @@
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 
-  // -- Custom command to login with valid data --
-
-
 // Custom command to register new account with static data 
 Cypress.Commands.add('registerUser', (user) => {
     cy.get('#firstname').type(user.firstname)
