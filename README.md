@@ -1,2 +1,2 @@
 # cypress-js
-Web automation test with javascript
+Web automation test using Cypress - Javascript
